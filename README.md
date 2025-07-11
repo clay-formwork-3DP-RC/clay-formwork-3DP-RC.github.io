@@ -21,6 +21,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 The template of the website was adapted [from](https://github.com/ripl/nerfies-template).  -->
 
 ## Website License
+
 This work is licensed under a [reative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0).
 =======
 The template of the website was adapted [from](https://github.com/ripl/nerfies-template). 
