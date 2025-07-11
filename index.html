@@ -6,7 +6,7 @@
         content="Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos.">
   <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Nerfies: Deformable Neural Radiance Fields</title>
+  <title>Feedback-driven adaptive multi-robot timber construction </title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
@@ -88,19 +88,19 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">Nerfies: Deformable Neural Radiance Fields</h1>
+          <h1 class="title is-1 publication-title">Feedback-driven adaptive multi-robot timber construction </h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
-              <a href="https://keunhong.com">Keunhong Park</a><sup>1</sup>,</span>
+              <a href="https://www.adelresearchgroup.org/team/arashadel">Arash Adel</a><sup>a,b</sup>,</span>
             <span class="author-block">
-              <a href="https://utkarshsinha.com">Utkarsh Sinha</a><sup>2</sup>,</span>
+              <a href="https://www.adelresearchgroup.org/team/danielruan">Daniel Ruan</a><sup>a,b</sup>,</span>
             <span class="author-block">
-              <a href="https://jonbarron.info">Jonathan T. Barron</a><sup>2</sup>,
+              <a href="https://taubmancollege.umich.edu/faculty/directory/wesley-mcgee/">Wesley McGee</a><sup>b</sup>,
             </span>
             <span class="author-block">
-              <a href="http://sofienbouaziz.com">Sofien Bouaziz</a><sup>2</sup>,
+              <a href="https://www.adelresearchgroup.org/team/salmamozaffari">Salma Mozaffari</a><sup>a,b</sup>,
             </span>
-            <span class="author-block">
+<!--             <span class="author-block">
               <a href="https://www.danbgoldman.com">Dan B Goldman</a><sup>2</sup>,
             </span>
             <span class="author-block">
@@ -108,12 +108,12 @@
             </span>
             <span class="author-block">
               <a href="http://www.ricardomartinbrualla.com">Ricardo Martin-Brualla</a><sup>2</sup>
-            </span>
+            </span> -->
           </div>
 
           <div class="is-size-5 publication-authors">
-            <span class="author-block"><sup>1</sup>University of Washington,</span>
-            <span class="author-block"><sup>2</sup>Google Research</span>
+            <span class="author-block"><sup>a</sup>Princeton University, Princeton, NJ 08544, USA</span>
+            <span class="author-block"><sup>b</sup>University of Michigan, Ann Arbor, MI 48109, USA</span>
           </div>
 
           <div class="column has-text-centered">
@@ -258,31 +258,7 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            We present the first method capable of photorealistically reconstructing a non-rigidly
-            deforming scene using photos/videos captured casually from mobile phones.
-          </p>
-          <p>
-            Our approach augments neural radiance fields
-            (NeRF) by optimizing an
-            additional continuous volumetric deformation field that warps each observed point into a
-            canonical 5D NeRF.
-            We observe that these NeRF-like deformation fields are prone to local minima, and
-            propose a coarse-to-fine optimization method for coordinate-based models that allows for
-            more robust optimization.
-            By adapting principles from geometry processing and physical simulation to NeRF-like
-            models, we propose an elastic regularization of the deformation field that further
-            improves robustness.
-          </p>
-          <p>
-            We show that <span class="dnerf">Nerfies</span> can turn casually captured selfie
-            photos/videos into deformable NeRF
-            models that allow for photorealistic renderings of the subject from arbitrary
-            viewpoints, which we dub <i>"nerfies"</i>. We evaluate our method by collecting data
-            using a
-            rig with two mobile phones that take time-synchronized photos, yielding train/validation
-            images of the same pose at different viewpoints. We show that our method faithfully
-            reconstructs non-rigidly deforming scenes and reproduces unseen views with high
-            fidelity.
+           Automation and robotics are anticipated to play a crucial role in addressing challenges confronting the construction industry, such as low productivity, workforce shortages, and physically demanding labor. However, a critical challenge in construction robotics has been the development of robust adaptive control to deal with uncertainties inherent in construction, such as material imperfections, multi-robot calibration, and fabrication inaccuracies. To address this challenge, we present a feedback-driven framework consisting of two complementary adaptive fabrication methods, pose-based and topology-based, incorporating perception, reasoning, and acting to handle uncertainties in multi-robot timber construction. We evaluate our framework through buildingscale experiments, quantifying their deviations from their as-planned digital models. Our results indicate that our pose-based method significantly decreased deviations compared to a benchmark when applied to nail-laminated timber panels, and our topology-based method enabled robust multi-robot construction of a timber frame wall. Altogether, this research contributes to flexible, accurate, and robust construction employing multi-robot systems.
           </p>
         </div>
       </div>
