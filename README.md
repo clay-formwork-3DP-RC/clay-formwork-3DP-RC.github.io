@@ -1,6 +1,6 @@
 # Feedback-driven adaptive multi-robot timber construction 
 
-This is the repository that contains source code for the [Feedback-driven adaptive multi-robot timber construction website](https://adaptive-timber-construction.github.io/).
+This is the repository that contains source code for the [Feedback-driven adaptive multi-robot timber construction website](https://adaptive-multirobot-construction.github.io/).
 
 If you find Feedback-driven adaptive multi-robot timber construction  useful for your work please cite:
 ```
