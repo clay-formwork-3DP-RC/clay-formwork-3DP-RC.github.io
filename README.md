@@ -1,20 +1,21 @@
-<<<<<<< HEAD
-# Nerfies
+# Feedback-driven adaptive multi-robot timber construction 
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Feedback-driven adaptive multi-robot timber construction website](https://adaptive-timber-construction.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find Feedback-driven adaptive multi-robot timber construction  useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{adel2024feedback,
+  title={Feedback-driven adaptive multi-robot timber construction},
+  author={Adel, Arash and Ruan, Daniel and McGee, Wesley and Mozaffari, Salma},
+  journal={Automation in Construction},
+  volume={164},
+  pages={105444},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
-# Website License
+## Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 =======
-# adaptive-timber-construction.github.io
->>>>>>> 0b2ac44dba80d987e809b0ea7f85263b67ca5b30
+The template of the website was adapted [from](https://github.com/ripl/nerfies-template). 
