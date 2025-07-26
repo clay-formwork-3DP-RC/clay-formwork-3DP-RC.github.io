@@ -1,17 +1,19 @@
 # Feedback-driven adaptive multi-robot timber construction 
 
-This is the repository that contains source code for the [Feedback-driven adaptive multi-robot timber construction website](https://adaptive-multirobot-construction.github.io/).
+This is the repository that contains source code for the [Leveraging clay formwork 3D printing for reinforced concrete construction website](https://clay-formwork-3dp-rc.github.io/).
 
-If you find Feedback-driven adaptive multi-robot timber construction  useful for your work please cite:
+If you find Leveraging clay formwork 3D printing for reinforced concrete construction useful for your work, please cite:
 ```
-@article{adel2024feedback,
-  title={Feedback-driven adaptive multi-robot timber construction},
-  author={Adel, Arash and Ruan, Daniel and McGee, Wesley and Mozaffari, Salma},
-  journal={Automation in Construction},
-  volume={164},
-  pages={105444},
+@article{mozaffari2024leveraging,
+  title={Leveraging clay formwork 3D printing for reinforced concrete construction},
+  author={Mozaffari, Salma and Kamravafar, Rahasadat and Li, Yunyan and Mata-Falc{\'o}n, Jaime and Adel, Arash},
+  journal={Virtual and Physical Prototyping},
+  volume={19},
+  number={1},
+  pages={e2367735},
   year={2024},
-  publisher={Elsevier}
+  publisher={Taylor \& Francis},
+  url={https://doi.org/10.1080/17452759.2024.2367735}
 }
 ```
 
