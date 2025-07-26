@@ -1,4 +1,4 @@
-# Feedback-driven adaptive multi-robot timber construction 
+# Leveraging clay formwork 3D printing for reinforced concrete construction
 
 This is the repository that contains source code for the [Leveraging clay formwork 3D printing for reinforced concrete construction website](https://clay-formwork-3dp-rc.github.io/).
 
